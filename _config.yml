@@ -19,12 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nightly Dose
-email: vin2502@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Vinay Padmanabhi's Personal Blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: vinaypadmanabhi
+twitter_username: vinay_pad
 github_username:  vinay-pad
 
 # Build settings
