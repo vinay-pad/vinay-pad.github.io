@@ -39,7 +39,6 @@ Don't make your 1-1s weekly if you and your direct report don't need them to be.
 
 A Technical Design Meeting doesn't need to be a two-2 hour ordeal. A good design discussion breaks up a topic into shorter sections that can be discussed within 30 to 45 mins. It's hard to keep the attention of a room of people for more than an hour, so why bother? Split the design discussion into multiple short meetings with the relevant audience instead.than one huge meeting with every possible person you can think of. 
 
-
 The rest of the meetings in the list above don't need more than 20 - 30 minutes if planned well and in many cases don't even need the meeting to occur if there isn't a need. 
 
 ### Meetings that are put on your calendar by other teams
@@ -61,7 +60,6 @@ These meetings are hard to fit into the four hour window since they usually invo
 ### Interviews
 
 I put interviews into its own category because I would consider this to be the only meeting that should run on the manager schedule (in PG's [maker's/manager's schedule](http://www.paulgraham.com/makersschedule.html) paradigm). That's because, as an Engineering Manager, interviewing is critical to your team's (and, in turn, your) growth and success. Also, it is hard to completely control the schedule since it's, in part, driven by the candidate's timeline,  and they may not wait around to fit into your schedule. However, if you are thoughtful about why you want to hire for a particular role and plan it well you shouldn't be spending entire  quarters interviewing for your team.
-
 
 ### Conclusion
 
