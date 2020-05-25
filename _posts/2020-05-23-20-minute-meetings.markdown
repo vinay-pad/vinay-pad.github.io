@@ -48,7 +48,7 @@ The rest of the meetings in the list above don't need more than 20 - 30 minutes 
 
 These meetings are the trickiest to deal with. They are often put on your calendar by other teams, and it's hard to plan for these since you have less control over when and for how long a time commitment is needed. The suggestion below might seem a bit extreme, but it's more of a thought experiment to see if you can differentiate between the meetings that truly need you vs. meetings that you just are put on because the organizer hasn't planned it well enough.
 
-Set your working hours in Google Calendar to blocks of four hours. Either 9 AM to 1 PM or 1 PM to 5 PM, and accept meetings only in those windows. Meetings outside this window are automatically rejected. This way you are guaranteed at least four hours in a day to focus on other things. If something is urgent and can't wait, set up an escalation path for the person to contact you via phone or in person. You would be surprised how many people might decide to either wait or realize you are probably not needed for the meeting because the issue is not really urgent.
+Set your working hours in Google Calendar to blocks of four hours. Either 9 AM to 1 PM or 1 PM to 5 PM, and accept meetings only in those windows. Meetings outside this window have a warning next to your name. Reject these meetings. This way you are guaranteed at least four hours in a day to focus on other things. If something is urgent and can't wait, set up an escalation path for the person to contact you via phone or in person. You would be surprised how many people might decide to either wait or realize you are probably not needed for the meeting because the issue is not really urgent.
 
 ### Other Meetings
 - All Hands
@@ -64,3 +64,9 @@ I put interviews into its own category because I would consider this to be the o
 ### Conclusion
 
 There may not be a silver bullet that will give you back time or free up your day, and the above solutions are not the only answers to this problem. Eventually, I think it comes down to two approaches. One is to plan your day around your meetings, and the other is to plan your meetings around your day. I encourage the latter approach to ensure that you aren’t controlled by your calendars.
+
+
+**Disclaimer**: I have only implemented some of the above strategies and others are more recent thoughts. I fully intend to implement these at my next engineering manager gig starting June and hope to write about the results.
+
+
+**Thanks** to [Shweta Kumar](https://twitter.com/shwetarkumar) for reading drafts of this and for the edits.
