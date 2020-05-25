@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Snippets from Books I Liked
+title:  snippets from books I liked
 categories: [blog, books]
 tags: [books]
 ---
