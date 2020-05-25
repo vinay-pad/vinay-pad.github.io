@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "20 minute meetings"
+title:  "20-minute meetings"
 categories: blog
 tags: [management, meetings]
 
