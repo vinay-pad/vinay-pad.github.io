@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Engineering interviews are still broken"
+title:  "Is engineering hiring art or science?"
 tags: [management, hiring]
 ---
 
 Running an engineering team is closer to art than science, even though the day-to-day work is based on engineering, which is rooted in science. If you agree with that statement, then the practices for running a team should be closer to art as well but isn't usually the case. The practice I focus on in this post is hiring, but it holds true even for others like project planning, estimation, career planning, etc.
 
 To explain my point, let's consider making a movie or a tv show (overly simplified here, of course). Most of us agree that making a movie is an art. A movie needs a team of people with a diverse set of skills to make something that the audience enjoys watching and would pay for. Let's start drawing some parallels with this team and a software engineering team. (This analogy works even when building a new company).
-The producer is equivalent to the company or an investor in case of a new startup, i.e., the entity providing money and resources to run the show.
-The group consisting of the Screenwriter, Director, Production Designer, Director of Photography, Music Composer, and many others make up the crew, is equivalent to the roles of Engineering Manager, Product Manager, Product Designer, Customer Support, Sales, etc. in no particular order.
-The actors playing various roles make up the cast and are like the Software Engineers on the team. Just like the actors enact the scenes to make the final product, the software engineers implement the software used by the end user.
+*The producer is equivalent to the company or an investor in case of a new startup, i.e., the entity providing money and resources to run the show.
+*The group consisting of the Screenwriter, Director, Production Designer, Director of Photography, Music Composer, and many others make up the crew, is equivalent to the roles of Engineering Manager, Product Manager, Product Designer, Customer Support, Sales, etc. in no particular order.
+*The actors playing various roles make up the cast and are like the Software Engineers on the team. Just like the actors enact the scenes to make the final product, the software engineers implement the software used by the end user.
 
 The skills required of the crew (Engineering Manager, Product Manager, Product Designer, Customer Support, Sales, etc in the software world) are pretty specific to the role, and the way to test for them has less overlap. 
 
